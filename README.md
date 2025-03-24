@@ -8,8 +8,8 @@
 </div>
 
 ###
-
-<div align="left">
+<h2 align="center">My Interests</h2>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -44,12 +44,17 @@
 <img align="right" height="150" src="https://media.giphy.com/media/8ArzbGWLVNQzRv1aAL/giphy.gif?cid=ecf05e4770fbcpby6t5c6349lmo1mpzsldl3ccn9pzpuj027&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
-
+Reach Me
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  <a href="https://www.linkedin.com/in/irosh-perera-69935b1a6/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+  </a>
+  <a href="mailto:iroshvperera@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
+  </a>
+  <a href="https://medium.com/@iroshvperera" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="Medium logo" />
+  </a>
 </div>
 
 ###
