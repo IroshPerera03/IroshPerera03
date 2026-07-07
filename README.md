@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Irosh Perera and I'm a UI/UX DESIGNER who ACTUALLY CODES, from Sri Lanka</h2>
+<h2 align="left">Hi 👋! My name is Irosh Perera and I'm a UI/UX DESIGNER who ACTUALLY CODES</h2>
 
 ###
 
